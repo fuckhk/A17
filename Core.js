@@ -6689,7 +6689,7 @@ Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that 
     ⌯       all NSFW commands.
     ⌯    
     ⌯    『  *${global.BotName}*  』
-    ⌯       Developed By: *Kai*
+    ⌯       Developed By: *༺°•ﮩ٨ـﮩﮩ٨ـ𝑅𝕀Ｓ𝗛工ᵝΘＴﮩ٨ـﮩﮩ٨ـ•°ᴮᵒˢˢ°༻*
     ⌯    
     ⌯    🍁 To use any of these
     ⌯       commands type.
